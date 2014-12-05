@@ -15,11 +15,6 @@ Currently supported exchanges to get data:
  - Kraken (USD, EUR)
  - Bitcoin-Central (EUR)
 
-Currently supported exchanges to automate trade:
- - MtGox (EUR, USD)
- - Bitstamp (USD)
- - Bitcoin-Central (EUR) - (API changed)
-
 Donation are always welcome: **1Maxime7WnLqq24hasMA872JZ4VBGMDbKk**
 
 # WARNING
